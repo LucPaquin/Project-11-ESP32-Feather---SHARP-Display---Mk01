@@ -14,20 +14,32 @@ The 1.3" 168x144 SHARP Memory LCD display is a cross between an eInk (e-paper) d
 DonLuc1908Mk01
 
 1 x Adafruit HUZZAH32 ESP32 Feather
+
 1 x Adafruit SHARP Memory Display
+
 1 x LED Green
+
 1 x 100 Ohm
+
 9 x Jumper Wires 3" M/M
+
 1 x Full-Size Breadboard
+
 1 x SparkFun Cerberus USB Cable
+
 
 Adafruit HUZZAH32 ESP32 Feather
 
 LG1 - Digital 21
+
 SCK - Digital 13
+
 MOS - Digital 12
+
 SSD - Digital 27
+
 GND - GND
+
 VIN - +3.3V
 
 Don Luc
