@@ -1,6 +1,7 @@
 # Project-11-ESP32-Feather---SHARP-Display---Mk01
 
 
+
 # Adafruit HUZZAH32 ESP32 Feather Board
 
 The HUZZAH32 is our ESP32-based Feather, made with the official WROOM32 module. We packed everything you love about Feathers: built in USB-to-Serial converter, automatic bootloader reset, Lithium Ion/Polymer charger, and just about all of the GPIOs brought out so you can use it with any of our Feather Wings. 
